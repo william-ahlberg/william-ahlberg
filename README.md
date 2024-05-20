@@ -1,6 +1,6 @@
-## 👨‍🎓 PHD Student
+## 👨‍🎓 PhD Student
 
-Currently doing my PhD studies at the Division of Robotics, Perception and Learning at KTH Royal Institute of Technology in Stockholm, Sweden. My research explores how to elicit and incorporate human feedback in the development of autonomous agents, with a focus on the design of believable NPCs in video games. We want to develop novel algorithms that align human feedback with models by extending existing active and preference learning methods. We also explore novel human-machine interaction modalities for feedback.
+Currently doing my PhD studies at the Division of Robotics, Perception and Learning (RPL) at KTH Royal Institute of Technology in Stockholm, Sweden. My research explores how to elicit and incorporate human feedback in the development of autonomous agents, with a focus on the design of believable NPCs in video games. We want to develop novel algorithms that align human feedback with models by extending existing active and preference learning methods. We also explore novel human-machine interaction modalities for feedback.
 
 ### 📬 Contact Information
 
