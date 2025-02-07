@@ -14,7 +14,7 @@ Currently doing my PhD studies at the Division of Robotics, Perception and Learn
 ### 🔗 Useful Links
 
 - [🎓 **University website**](https://www.kth.se/profile/wiahlb/?l=en)
-- [🙂 **Personal website**](https://www.william-ahlberg.github.io)
+- [🙂 **Personal website**](https://william-ahlberg.github.io)
 
 
 <!--
